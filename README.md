@@ -1,2 +1,4 @@
 # hello-world
-Learning git with the tutorial
+João Vitor Dornellas Cypriano
+25 anos
+Engenheiro Mecânico formado pela UNIFEI
